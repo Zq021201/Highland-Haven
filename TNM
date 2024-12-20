@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sustainable Tourism & Mental Health</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .card {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Explore Sustainable Tourism & Mental Health</h1>
+    </header>
+    <nav>
+        <a href="#destination">Destination</a>
+        <a href="#mental-health">Mental Health</a>
+        <a href="#sdg">SDG</a>
+    </nav>
+    <section id="sdg">
+        <div class="container">
+            <h2>Sustainable Development Goals (SDG)</h2>
+            <div class="card">
+                <h3>Sustainable Tourism</h3>
+                <p><strong>SDG 8 Target 8.9:</strong> By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products.</p>
+                <p><strong>Indicator:</strong> Tourism direct GDP as a proportion of total GDP and growth rate.</p>
+            </div>
+            <div class="card">
+                <h3>Mental Health</h3>
+                <p><strong>SDG 3 Target 3.4:</strong> By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.</p>
+                <p><strong>Indicator:</strong> Change in suicide mortality rate.</p>
+            </div>
+        </div>
+    </section>
+    <section id="destination">
+        <div class="container">
+            <h2>Cameron Highlands</h2>
+            <h3>Location</h3>
+            <p>Pahang, Malaysia</p>
+            <h3>How to Get There (From KL)</h3>
+            <ul>
+                <li><strong>Bus:</strong> RM50/person, 3 hours 30 minutes <a href="#">Details</a></li>
+                <li><strong>Grab:</strong> Varies, 3 hours on average</li>
+                <li><strong>MRT/LRT:</strong> Not available, 5 hours on average <a href="#">Details</a></li>
+            </ul>
+            <h3>Accommodation (For 2 persons/night)</h3>
+            <ul>
+                <li>Haji Saudi Hotel: RM89 (7.2/10) <a href="#">Details</a></li>
+                <li>Heritage Hotel Cameron Highland: RM133 (7.5/10) <a href="#">Details</a></li>
+                <li>Wan Alyasa Hotel: RM148 (8.2/10) <a href="#">Details</a></li>
+                <li>Rosa Passadena Hotel: RM159 (7.7/10) <a href="#">Details</a></li>
+                <li>Copthorne Cameron Highland: RM189 (7.3/10) <a href="#">Details</a></li>
+            </ul>
+            <h3>Sub-Destinations</h3>
+            <div class="card">
+                <h4>Mossy Forest</h4>
+                <p>Ranked 5th on Lonely Planet's Most Instagrammable Forests. Entry: RM10-30, Open: 9AM-4PM. <a href="#">Details</a></p>
+            </div>
+            <div class="card">
+                <h4>BOH Tea Plantation</h4>
+                <p>Open Tue-Sun, 8.30AM-4.30PM. Features: Cafe, tea factory tour. <a href="#">Details</a></p>
+            </div>
+        </div>
+    </section>
+    <section id="mental-health">
+        <div class="container">
+            <h2>Mental Health</h2>
+            <h3>What is Mental Health?</h3>
+            <p>A state of well-being characterized by optimal functioning, inner equilibrium, and healthy relationships (Bhugra et al., 2013).</p>
+            <h3>Importance</h3>
+            <p>Helps cope with daily stresses, boosts productivity, and enhances cognitive skills (Fusar-Poli et al., 2019).</p>
+            <h3>Challenges</h3>
+            <p>Young adults face depression and anxiety, exacerbated during the COVID pandemic (Surgeon General Advisory, 2021).</p>
+            <h3>Improvement Tips</h3>
+            <ul>
+                <li>Physical Activity</li>
+                <li>Social Connections</li>
+            </ul>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Sustainable Tourism & Mental Health</p>
+    </footer>
+</body>
+</html>
